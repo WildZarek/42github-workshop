@@ -1,0 +1,6 @@
+[submodule "submodules/tallerGit"]
+	path = submodules/tallerGit
+	url = https://github.com/PaLucena/tallerGit.git
+[submodule "submodules/tallerGitHub"]
+	path = submodules/tallerGitHub
+	url = https://github.com/PaLucena/tallerGitHub.git
