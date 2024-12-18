@@ -1,0 +1,11 @@
+# CODEOWNERS: Indica qué usuarios o equipos son responsables de revisar el código en ciertas partes del repositorio.
+# Formato:
+# ruta/archivo @usuario_o_equipo
+
+# Ejemplo: Todos los archivos en la carpeta docs deben ser revisados por el usuario @doc-owner
+docs/ @doc-owner
+
+# Ejemplo: Todos los archivos JS revisados por un equipo
+*.js @frontend-team
+
+# Ajustar según roles y responsabilidades en el proyecto.
