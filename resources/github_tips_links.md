@@ -6,6 +6,10 @@ A continuación, una lista de recursos y consejos para aprovechar mejor GitHub:
 
 - [GitHub Docs](https://docs.github.com/) – La documentación oficial, abarca desde lo básico hasta temas avanzados.
 
+## Cheat Sheets
+- [Git CheatSheet](https://training.github.com/downloads/es_ES/github-git-cheat-sheet.pdf) (de GitHub Education)
+- [Training Manual](https://githubtraining.github.io/training-manual/#/) 
+
 ## Funcionalidades Avanzadas
 
 - [GitHub Actions](https://docs.github.com/actions) – Automatiza flujos de trabajo (CI/CD).
