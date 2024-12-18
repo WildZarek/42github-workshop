@@ -121,7 +121,7 @@ Estos tutoriales te ayudarán a entender la motivación y el uso de cada archivo
 
 La carpeta [`resources/`](resources/) proporciona:
 
-- [`git_cheat_sheet.pdf`](resources/git_cheat_sheet.pdf): Hoja de referencia rápida de comandos Git.
+- [`git_cheat_sheet.pdf`](resources/git_cheat_sheet.md): Hoja de referencia rápida de comandos Git.
 - [`github_tips_links.md`](resources/github_tips_links.md): Enlaces útiles para aprender más sobre GitHub.
 - [`README.md`](resources/README.md): Descripción general de los recursos.
 
