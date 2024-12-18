@@ -133,8 +133,8 @@ Usa estos materiales para profundizar en el manejo de Git y GitHub.
 
 En [`branches/`](branches/) encontrarás:
 
-- [`feature-branch-example.md`](branches/feature-branch-example.md): Explica el flujo de trabajo con ramas de funcionalidad.
-- [`hotfix-branch-example.md`](branches/hotfix-branch-example.md): Describe cómo manejar ramas para correcciones urgentes.
+- [`feature-branch-example.md`](branches/feature_branch_example.md): Explica el flujo de trabajo con ramas de funcionalidad.
+- [`hotfix-branch-example.md`](branches/hotfix_branch_example.md): Describe cómo manejar ramas para correcciones urgentes.
 
 Estas estrategias de branching ayudan a mantener el código organizado, estable y fácil de evolucionar.
 ---
