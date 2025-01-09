@@ -18,7 +18,8 @@ La carpeta `.github/` dentro de un repositorio de GitHub es un espacio reservado
 ├── workflows/
 │   └── ci.yml
 ├── ISSUE_TEMPLATE/
-│   └── bug_report.md
+│   ├── bug_report.md
+│   └── config.yml
 ├── PULL_REQUEST_TEMPLATE.md
 └── CODEOWNERS
 ```
