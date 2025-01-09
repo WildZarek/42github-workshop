@@ -74,6 +74,18 @@ Esta plantilla proporciona una estructura estándar para las *pull requests*. Cu
 **Beneficio:**  
 Mantener un formato uniforme en las *pull requests* facilita la revisión, la comunicación y la transparencia en el equipo.
 
+**Notas adicionales:**
+
+> [!TIP]
+> Este paso es opcional, pero aconsejable si utilizamos nuestras propias plantillas.
+
+Si queremos que sea obligatorio utilizar cualquiera de nuestras plantillas, evitando que se puedan enviar peticiones sin plantilla,
+debemos crear un archivo `.github/ISSUE_TEMPLATE/config.yml` con el siguiente contenido:
+
+```yaml
+blank_issues_enabled: false
+```
+
 ---
 
 ### 4. Archivo `CODEOWNERS`
