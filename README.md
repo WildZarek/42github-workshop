@@ -44,7 +44,8 @@ github-workshop/
 │   ├── workflows/
 │   │   └── ci.yml
 │   ├── ISSUE_TEMPLATE/
-│   │   └── bug_report.md
+│   │   ├── bug_report.md
+│   │   └── config.yml
 │   ├── PULL_REQUEST_TEMPLATE.md
 │   └── CODEOWNERS
 ├── docs/
