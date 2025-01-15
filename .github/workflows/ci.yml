@@ -16,15 +16,3 @@ jobs:
       # Si tienes submódulos:
       - name: Actualizar submódulos
         run: git submodule update --init --recursive
-
-      # Instalar dependencias (ejemplo con Node.js)
-      - name: Configurar Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: '14'
-
-      - name: Instalar dependencias
-        run: npm install
-
-      - name: Ejecutar pruebas
-        run: npm test
